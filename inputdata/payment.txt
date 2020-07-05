@@ -1,0 +1,89 @@
+{
+ allPaymentTypes{
+  vendor
+  currency
+  amount
+  paymentType
+ }
+
+  payment(id: "A2A") {
+    vendor
+    currency
+    paymentType
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
