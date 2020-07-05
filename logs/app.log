@@ -1,0 +1,6 @@
+2020-07-06 00:02:33,396 INFO o.s.b.StartupInfoLogger [main] Starting SpringWithGraphQLApplication on LAPTOP-J4llHR1R with PID 2556 (D:\githubprojects\springbootwithgraphql\target\classes started by KINGMAKER in D:\githubprojects\springbootwithgraphql)
+2020-07-06 00:02:33,476 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-06 00:02:33,480 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-07-06 00:02:35,988 INFO c.l.s.s.GraphQLService [main] Loading init data
+2020-07-06 00:02:37,811 INFO o.s.b.StartupInfoLogger [main] Started SpringWithGraphQLApplication in 4.846 seconds (JVM running for 6.663)
+2020-07-06 00:03:08,182 INFO c.l.s.s.d.PaymentDataFetcher [http-nio-8081-exec-1] Get Payment

@@ -1,0 +1,15 @@
+schema {
+  query: Query
+}
+
+type Query {
+  allPaymentTypes: [Payment]
+  payment(id: String): Payment
+}
+
+type Payment {
+  vendor: String
+  paymentType: String
+  amount: Long
+  currency: String
+}
